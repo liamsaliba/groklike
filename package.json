@@ -1,0 +1,21 @@
+{
+    "name": "groklike",
+    "displayName": "Groklike",
+    "description": "Theme based on Grok Learning's editor",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Groklike (Unofficial)",
+                "uiTheme": "vs",
+                "path": "./themes/Groklike (Unofficial)-color-theme.json"
+            }
+        ]
+    }
+}
